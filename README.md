@@ -1,5 +1,5 @@
 # DinarVision
-liscence: team TechVengers ,opportunity: Orange X RAS INSAT NRW 2023
+license: team TechVengers ,opportunity: Orange X RAS INSAT NRW 2023
 
 members : Mohamed Khalil Azzabi, Oumayma Sghayri, Ghassen Hafsia, Elyes Chammakh
 
